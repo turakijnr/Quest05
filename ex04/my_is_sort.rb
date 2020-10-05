@@ -8,4 +8,4 @@ def my_is_sort(int_arr)
   end
   return val
 end
-print my_is_sort([2,1,-1])
+#print my_is_sort([2,1,-1])

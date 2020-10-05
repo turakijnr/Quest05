@@ -1,8 +1,6 @@
 def my_each(arr)
-    arr.each do |x|
-     puts x
-     
-    end
+   puts arr.each {|x| x}
+
     
 end
-my_each(["1arg"])
+#my_each(["blah1","blah2","blah3"])
